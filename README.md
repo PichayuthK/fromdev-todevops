@@ -20,3 +20,32 @@ At this very step, we will try to create an application that work locally and ha
 - app should be able to get todo items for user
 - app should be able to get todo detail for user
 - app should be able to delete a specific todo belong to user
+
+## Journey 2 (Draft)
+Remove local dependency with Docker and Docker Compose and Build
+
+## Journey 3 (Draft)
+Deployment
+
+### Journey 3.1 (Draft)
+CI/CD
+
+## Journey 4 (Draft)
+Transform monolithic app into microservices (modify app, modify CI/CD)
+
+## Journey 5 (Draft)
+Scaling with Kubernetes
+
+### Journey 5.1 (Draft)
+Improve deployment with ArgoCD
+
+## Journey 6 (Draft)
+Observability(logging, monitoring, tracing)
+
+## Journey 7 (Draft)
+Toward IaC
+
+## Journey 8 and more (Draft)
+ideas
+- extend app features
+- event driven architecture
