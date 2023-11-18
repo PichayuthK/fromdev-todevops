@@ -8,7 +8,7 @@ I created this project to show a journey on how a simple application being built
 Every piece of art start with a good planning, this section contains all the steps or diagrams, so you can see how this project is being build and enhance.
 
 ## Journey 1
-At this very step, we will try to create an application that work locally and has one database. I choose a todo application with mongodb as it database. As I told you the purpose of this project is learning and not problem solving, so I choose todo application which is easy to start with and mongodb because we might add more functionalities or features to the application and NoSQL database serve that purpose.
+At this very step, we will try to create an application that work locally and has one database. I choose a todo application with mongodb as its database. As I told you the purpose of this project is learning and not problem solving, so I choose todo application which is easy to start with and mongodb because we might add more functionalities or features to the application and NoSQL database serve that purpose.
 
 **Objective**: Build a todo app
 **Requirements**:
