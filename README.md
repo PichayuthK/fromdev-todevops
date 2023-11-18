@@ -5,7 +5,7 @@ I created this project to show a journey on how a simple application being built
 > This project is for learning purpose only, so the quality of the project might not be production ready and I intend it to be that way. So please make sure you review any code, script, or configuration before using it.
 
 # Project Overview
-Every piece of art start with a good planning, this section will contain all the steps and diagrams, so you can see how this project is being build and enhance.
+Every piece of art start with a good planning, this section contains all the steps or diagrams, so you can see how this project is being build and enhance.
 
 ## Journey 1
 At this very step, we will try to create an application that work locally and has one database. I choose a todo application with mongodb as it database. As I told you the purpose of this project is learning and not problem solving, so I choose todo application which is easy to start with and mongodb because we might add more functionalities or features to the application and NoSQL database serve that purpose.
