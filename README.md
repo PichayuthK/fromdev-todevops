@@ -1,8 +1,6 @@
-This project is my personal project that I intend to treat it as a tutorial, guidance, and reference for myself and others.
+This project is my hobby that I intend to treat it as a tutorial, guidance, and reference for myself and others.
 
-I worked as a Software Engineer for a number of years and my main task was only designing, coding and dockerizing. Then one day I got an opportunity to work as a Platform Engineer which requires a different set of skills such as DevOps, Cloud Knowledge, CI Pipeline, Observability and many more.
-
-So, I decided to create this project to help me learn all those new skills while also documenting it and hope that this project might benefit someone or at the very least serve as one of my portfolio project.
+I created this project to show a journey on how a simple application being built and transformed. It will start with a coding follow by DevOps practices and tools.
 
 > This project is for learning purpose only, so the quality of the project might not be production ready and I intend it to be that way. So please make sure you review any code, script, or configuration before using it.
 
